@@ -1,0 +1,18 @@
+{
+    "name": "Unity.Cinemachine.Helpers.Editor",
+    "references": [
+        "GUID:15ae052ca27f5c54cbef59f85cddfe28",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:ba8c092d026123a418fb4bfb797a7bd8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

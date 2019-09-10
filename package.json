@@ -1,0 +1,15 @@
+{
+  "name": "com.unity.cinemachine.helpers",
+  "displayName": "Cinemachine Helpers",
+  "version": "0.1.0-preview.1",
+  "unity": "2019.2",
+  "description": "Unity package to help setting up Interactive Cinemachine Virtual Cameras.",
+  "keywords": [
+    "unity",
+    "cinemachine",
+    "navigation"
+  ],
+  "dependencies": {
+    "com.unity.cinemachine": "2.3.4"
+  }
+}
